@@ -15,8 +15,10 @@ routine for a year).
 Platform and Data Storage: Built with Flutter, getFit runs on Android from a single codebase.
 It stores height, weight, sex, workout logs, and diet entries.
 
-##**Phase One**
-###**🔹 1. UI Development**
+###**Phase One**
+
+**🔹 1. UI Development**
+
 **Wireframe flow contains 12 screens. The designs were created using Figma and present the main layout and interaction flow of the app.**
 ![image](/image.jpg)
 - **Onboarding (Welcome Screen):** The first screen where users are welcomed and introduced to the app’s purpose, with a button to begin.
