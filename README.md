@@ -16,4 +16,4 @@ Platform and Data Storage: Built with Flutter, getFit runs on Android from a sin
 It stores height, weight, sex, workout logs, and diet entries.
 
 **🔹 1. UI Development**
-[image.png](\image.png)
+![image.png](\image.png)
