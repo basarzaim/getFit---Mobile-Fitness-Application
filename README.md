@@ -15,5 +15,5 @@ A mobile fitness tracking application built with **Flutter** and **Dart**, desig
 ## 🚀 Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/getfit.git
+   git clone https://github.com/basarzaim/getfit--Mobile-Fitnes-Application.git
    cd getfit
