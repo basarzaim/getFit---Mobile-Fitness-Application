@@ -10,8 +10,7 @@ A mobile fitness tracking application built with **Flutter** and **Dart**, desig
 
 ## 🛠️ Tech Stack
 - **Frontend:** Flutter (Dart)  
-- **Backend:** MySQL (via REST API)  
-- **Services & Tools:** Firebase, Git  
+- **Backebd, Services & Tools:** Firebase, Git  
 
 ## 🚀 Getting Started
 1. Clone the repository:
