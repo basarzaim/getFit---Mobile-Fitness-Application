@@ -1,16 +1,20 @@
-# proje
+# GetFit — Mobile Fitness Application
 
-A new Flutter project.
+A mobile fitness tracking application built with **Flutter** and **Dart**, designed to help users monitor their workouts, track activities, and receive personalized fitness recommendations.
 
-## Getting Started
+## ✨ Features
+- 🔐 **User Authentication** — secure login & sign-up system  
+- 📊 **Activity Tracking** — log workouts and view progress  
+- 💡 **Personalized Suggestions** — tailored fitness recommendations  
+- 📱 **Clean UI** — modern design with smooth navigation  
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack
+- **Frontend:** Flutter (Dart)  
+- **Backend:** MySQL (via REST API)  
+- **Services & Tools:** Firebase, Git  
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/getfit.git
+   cd getfit
